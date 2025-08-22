@@ -1,0 +1,5 @@
+ Streamlit
+ Numpy
+ Pandas
+ Pickle
+ Vs code
